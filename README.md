@@ -13,7 +13,7 @@ Follow me on LinkedIn : https://www.linkedin.com/in/saurabh-parave-957303162/
 
 | Sr No | Name                                                         | Link                                                         |
 | ----- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 1     | Anime_Recommendation_system(Collaboration_ba                 | https://github.com/SaurabhSRP/02-Recommendation-System-Projects/blob/main/Anime_Recommendation_system(Collaboration_based_recommendation_K_nearestNeighbors).ipynb |
+| 1     | Anime_Recommendation_system(Collaboration_based_recommendation_K_nearestNeighbors)            | https://github.com/SaurabhSRP/02-Recommendation-System-Projects/blob/main/Anime_Recommendation_system(Collaboration_based_recommendation_K_nearestNeighbors).ipynb |
 | 2     | Marvel_Comics_Recommendation_System(using_TF_IDF_and_Sigmoid_Kernel) | https://github.com/SaurabhSRP/02-Recommendation-System-Projects/blob/main/Marvel_Comics_Recommendation_System(using_TF_IDF_and_Sigmoid_Kernel).ipynb |
 | 3     | Movies_Recommendation_System_(Content_based_filtering_using_Corelation)             | https://github.com/SaurabhSRP/02-Recommendation-System-Projects/blob/main/Movies_Recommendation_System_(Content_based_filtering_using_Corelation).ipynb |
 | 4     | Movies_Recommendation_System_(using_TF_IDF_and_Cosine_Similarity)                    | https://github.com/SaurabhSRP/Stock-Price-Prediction-Projects/blob/main/Apple_Stock_Price_Prediction_using_AutoTS.ipynb ](https://github.com/SaurabhSRP/02-Recommendation-System-Projects/blob/main/Movies_Recommendation_System_(using_TF_IDF_and_Cosine_Similarity).ipynb)|
